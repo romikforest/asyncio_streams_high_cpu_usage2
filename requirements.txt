@@ -1,0 +1,4 @@
+pyprof2calltree==1.4.5
+locust==1.4.3
+starlette==0.14.2
+uvicorn==0.13.4
